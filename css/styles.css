@@ -187,4 +187,8 @@ footer{
         margin-bottom:5px;
 
     }
+    header nav{
+        float:right;
+        margin-top: 10px;
+}
 }
